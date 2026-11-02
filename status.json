@@ -1,4 +1,20 @@
 {
-  "is_active": true,
-  "message": "Active"
+  "store_alpha_01": {
+    "store_name": "Alpha Bike Parts",
+    "owner_email": "alpha.parts@gmail.com",
+    "is_active": true,
+    "notes": "Paid full amount"
+  },
+  "store_beta_02": {
+    "store_name": "Beta Spares",
+    "owner_email": "betaspares@gmail.com",
+    "is_active": false,
+    "notes": "Payment pending for May"
+  },
+  "store_gamma_03": {
+    "store_name": "Gamma Auto World",
+    "owner_email": "gammaauto@gmail.com",
+    "is_active": true,
+    "notes": "Monthly subscription active"
+  }
 }
