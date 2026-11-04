@@ -2,9 +2,9 @@
   "store_alpha_01": {
     "shop_name": "Alpha Bike Parts",
     "phone": "+92 300 1234567",
-    "address": "Main Market, Workshop Road, karachi",
+    "address": "Main Market, Workshop Road, Lahore",
     "tax_id": "NTN-9876543-2",
-    "is_active": false
+    "is_active": true
   },
   "store_beta_02": {
     "shop_name": "Beta Spares",
