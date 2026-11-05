@@ -12,6 +12,6 @@
     "phone": "+92 321 7654321",
     "address": "Auto Plaza, Karachi",
     "tax_id": "NTN-123456-8",
-    "is_active": false
+    "is_active": true
   }
 }
