@@ -1,8 +1,9 @@
 {
+  "admin_password": "your_secure_master_password_here",
   "store_alpha_01": {
-    "shop_name": "Alpha Bike Parts",
-    "phone": "+92 300 1234567",
-    "address": "Main Market, Workshop Road, Lahore",
+    "shop_name": "ARS Developers",
+    "phone": "+92 325 2734253",
+    "address": "Main Market, Karachi",
     "tax_id": "NTN-9876543-2",
     "is_active": true
   },
@@ -10,7 +11,7 @@
     "shop_name": "Beta Spares",
     "phone": "+92 321 7654321",
     "address": "Auto Plaza, Karachi",
-    "tax_id": "",
+    "tax_id": "NTN-123456-8",
     "is_active": false
   }
 }
