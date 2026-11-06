@@ -6,13 +6,5 @@
     "address": "Main Market, Karachi",
     "tax_id": "NTN-9876543-2",
     "is_active": true
-  },
-  "001": {
-    "shop_name": "Haroon",
-    "phone": "12334658",
-    "address": "Karachi",
-    "tax_id": "",
-    "is_active": true,
-    "updated_at": "2026-11-06T09:28:39.621Z"
   }
 }
