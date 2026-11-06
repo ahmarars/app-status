@@ -7,5 +7,13 @@
   "store_01": {
     "shop_name": "Alpha Bike Parts",
     "is_active": true
+  },
+  "store_ahmar_87": {
+    "shop_name": "Ahmar",
+    "phone": "03481521039",
+    "address": "Main Market, Workshop Road, Karachi",
+    "tax_id": "",
+    "is_active": true,
+    "updated_at": "2026-11-06T14:34:00.319Z"
   }
 }
