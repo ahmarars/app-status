@@ -1,11 +1,11 @@
 {
-  "admin_password": "0325",
+  "admin_password": "your_admin_pass",
+  "global_update": {
+    "version": "1.0.1",
+    "url": "https://github.com/ahmarars/app-status/releases/download/v1.0.1/dist.zip"
+  },
   "store_01": {
-    "shop_name": "New Moto Spares",
-    "phone": "+92 300 1234567",
-    "address": "Auto Market, Lahore",
-    "tax_id": "",
-    "is_active": true,
-    "updated_at": "2026-11-06T09:33:41.665Z"
+    "shop_name": "Alpha Bike Parts",
+    "is_active": true
   }
 }
