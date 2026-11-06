@@ -13,12 +13,5 @@
     "address": "Auto Plaza, Karachi",
     "tax_id": "NTN-123456-8",
     "is_active": true
-  },
-  "store_ars_00": {
-    "shop_name": "ARS",
-    "phone": "+92 321 1251238",
-    "address": "Auto , Karachi",
-    "tax_id": "",
-    "is_active": true
   }
 }
