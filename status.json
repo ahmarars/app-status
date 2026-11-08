@@ -1,3 +1,11 @@
 {
-  "admin_password": "your_admin_pass"
+  "admin_password": "your_admin_pass",
+  "store_hmd_80": {
+    "shop_name": "Hmd Bike Traders",
+    "phone": "+92 300 1234567",
+    "address": "Main Market, Workshop Road, Karachi",
+    "tax_id": "",
+    "is_active": true,
+    "updated_at": "2026-11-08T11:04:14.637Z"
+  }
 }
