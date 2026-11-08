@@ -15,5 +15,13 @@
     "tax_id": "",
     "is_active": true,
     "updated_at": "2026-11-06T20:39:15.734Z"
+  },
+  "store_88": {
+    "shop_name": "New Moto Spares",
+    "phone": "+92 300 1234567",
+    "address": "Auto Market, Lahore",
+    "tax_id": "",
+    "is_active": true,
+    "updated_at": "2026-11-08T08:16:04.661Z"
   }
 }
