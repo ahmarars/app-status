@@ -4,10 +4,6 @@
     "version": "1.0.1",
     "url": "https://github.com/ahmarars/app-status/releases/download/v1.0.1/dist.zip"
   },
-  "store_01": {
-    "shop_name": "Alpha Bike Parts",
-    "is_active": true
-  },
   "store_ahmar_87": {
     "shop_name": "Ahmar",
     "phone": "03481521039",
